@@ -1,0 +1,8 @@
+using System.Diagnostics.Metrics;
+{
+    string romanNumeral = "I";
+    for (int i = 0; i < 1; i++) 
+    Console.WriteLine(romanNumeral [i]);
+
+    Console.ReadLine();
+ }       
